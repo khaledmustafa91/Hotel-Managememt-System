@@ -1,0 +1,14 @@
+﻿Build started 1/13/2018 10:54:50 PM.
+     1>Project "E:\University\First Year\Summer Course Project\Final\Hotel Management System\Project5\Project5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fp"Debug\Project5.pch" /Fa"Debug\\" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /analyze- /errorReport:prompt "C:\Users\khaled160114\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\University\First Year\Summer Course Project\Final\Hotel Management System\Debug\Project5.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project5.MyForm1.resources /ASSEMBLYRESOURCE:Debug\Project5.MyForm2.resources /ASSEMBLYRESOURCE:Debug\Project5.MyForm3.resources /ASSEMBLYRESOURCE:Debug\Project5.MyForm4.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\University\First Year\Summer Course Project\Final\Hotel Management System\Debug\Project5.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         Project5.vcxproj -> E:\University\First Year\Summer Course Project\Final\Hotel Management System\Debug\Project5.exe
+     1>Done Building Project "E:\University\First Year\Summer Course Project\Final\Hotel Management System\Project5\Project5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.49
